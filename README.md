@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on any projects that will help me become better
 - 📫 How to reach me (I'll edit that in later)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Anime is hella amazing
 
 <!---
